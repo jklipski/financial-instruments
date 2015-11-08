@@ -135,7 +135,7 @@ PRZYKŁAD 4
 ```
 
 Dwie strony zawarły hipotetyczny swap akcyjny, w którym płatności dokonywane są raz w roku. Strona A zobowiązuje się płacić 8% rocznie (od wartości nominalnej), strona B zaś zobowiązuje się płacić płatności równe stopie zwrotu indeksu WIG20.
-Jeśli stopa zwrotu WIG20 wynosi w danym roku 18%, to strona B płaci stronie A 10% (różnica między 18% a 8%). Jeśli stopa zwrotu WIG20 wynosi w danym roku -12% (strata), to strona A płaci stronie B 20% (różnica miedzy 8% i -12%). Jak widać tego typu swap stanowi bardzo dobre zabezpieczenie przed spadkiem wartości indeksu giełdowego.
+.rJeśli stopa zwrotu WIG20 wynosi w danym roku 18%, to strona B płaci stronie A 10% (różnica między 18% a 8%). Jeśli stopa zwrotu WIG20 wynosi w danym roku -12% (strata), to strona A płaci stronie B 20% (różnica miedzy 8% i -12%). Jak widać tego typu swap stanowi bardzo dobre zabezpieczenie przed spadkiem wartości indeksu giełdowego.
 
 Swap towarowy jest to konrakt w którym jedna ze stron, dokonuje płatności według stałej stopy procentowej, druga zaś według zmiennej stopy zależnej od względnych zmian cen towarów na rynkach. Przykładem takiego swapu może być taki w którym zmienne płatności zależą od względnych zmian cen ropy naftowej.
 
